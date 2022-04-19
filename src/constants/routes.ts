@@ -1,0 +1,14 @@
+export const HOME = "/";
+export const LOGIN = "/login";
+export const LOGOUT = "/logout";
+export const PROFILE = "/profile";
+export const GIT_ISSUES_PATH = "/git-issues";
+export const PULL_REQUESTS_PATH = "/pull-requests";
+export const PRESENTATIONS_OR_WEBINARS_PATH = "/presentations-or-webinars";
+export const BLOGS_PATH = "/blogs";
+export const PROJECTS_PATH = "/projects";
+export const PROJECT_TASKS_PATH = "/project-tasks";
+export const NOT_FOUND = "/404";
+export const INTERNS = "/interns";
+export const ROLES_PATH = "/roles";
+export const DASHBOARD = "/dashboard";
