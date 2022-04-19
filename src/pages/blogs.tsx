@@ -267,7 +267,7 @@ export const Blogs = (): ReactElement => {
 		setEditIndex(-1);
 	};
 
-	const handleDelete = () => {
+	const handleDelete = () =>     {
 		deleteBlog(range[deleteIndex])
 			.then((response) => {
 				getBlogsCall();
